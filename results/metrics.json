@@ -1,0 +1,17 @@
+{
+    "total_tickets": 200,
+    "answer_count": 71,
+    "partial_answer_escalate_count": 0,
+    "escalate_count": 128,
+    "out_of_scope_count": 1,
+    "high_risk_count": 96,
+    "retrieval_retry_count": 33,
+    "average_retrieval_attempts": 0.68,
+    "decision_parity_percentage": 88.5,
+    "divergent_reply_count": 23,
+    "divergent_escalation_count": 0,
+    "total_latency_seconds": 36.78,
+    "retrieval_mode": "tfidf",
+    "reranker_active": true,
+    "retrieval_quality_metrics": "unavailable"
+}
